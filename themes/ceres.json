@@ -24,7 +24,7 @@
         "terminal.ansi.bright_cyan": "#91c0fa",
         "terminal.ansi.bright_white": "#f2f3f5",
         "element.background": "#212128FF",
-        "elevated_surface.background": "#795548",
+        "elevated_surface.background": "#17171C",
         "text": "#F2F3F5FF",
         "text.placeholder": "#b8b8c7",
         "border.selected": "#F2F3F500",
