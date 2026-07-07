@@ -1,0 +1,7 @@
+id = "ceres"
+name = "Ceres"
+version = "0.0.1"
+schema_version = 1
+authors = ["cerisyl"]
+description = "A colorful, readable dark theme based on Dracula, Catppuccin, and Tailwind."
+repository = "https://github.com/cerisyl/ceres-zed"
